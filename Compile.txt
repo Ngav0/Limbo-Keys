@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=icon.ico --add-data "key.png;." --add-data "Limbo.mp3;." --add-data "Win.mp4;." --add-data "death.mp4;." --add-data "bg.png;." --add-data "lbg.png;." --hidden-import pygame.mixer --hidden-import PIL.ImageTk --hidden-import cv2 --name Limbo Limbo.py
