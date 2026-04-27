@@ -10,3 +10,5 @@ If you lose it will change your background to "lbg.png" and spam 170 images of t
 # Limbo Safe.exe
 
 Just the minigame without the background changing or spamming the key pictures on your desktop. Totally safe
+
+![There is supposed to be a preview loading here, but something went wrong...](https://raw.githubusercontent.com/Ngav0/Limbo-Keys/refs/heads/main/preview.png)
